@@ -1,0 +1,43 @@
+.uber{
+  background-color: rgb(0,0,0);
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 15px;
+  cursor: pointer;
+  transition: opacity 0.25s ;
+}
+.uber:hover{
+  opacity: 0.5;
+}
+.uber:active{
+  opacity: 0.3;
+}
+
+
+.amazon{
+  background-color: #ffb508;
+  color: black;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 15px;
+  cursor: pointer;
+  transition: opacity 0.15s;
+}
+.amazon:hover{
+  opacity: 0.8;
+}
+.amazon:active{
+  background-color: #ebd152;
+}
+
+
+
+.github{
+  background-color: #43ed1c;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 15px;
+  cursor: pointer;
+}
